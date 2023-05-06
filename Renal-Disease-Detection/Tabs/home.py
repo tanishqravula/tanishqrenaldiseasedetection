@@ -10,7 +10,7 @@ def app():
     st.title("Renal Disease Predictor")
 
     # Add image to the home page
-    st.image("./images/home.jpeg")
+    st.image("Renal-Disease-Detection/images/home.jpeg")
 
     # Add brief describtion of your web app
     st.markdown(
